@@ -3,13 +3,13 @@
 First itteration of my portfolio using only html and css and making a resposive site.
 
 MAIN html file is names
-'''bash
-index.html
-'''
-snd its css file
-'''bash
-index.css
-'''
+
+    index.html
+
+and its css file
+
+    index.css
+
 simillarly individual html files are created for each navigation tag.
 
 
