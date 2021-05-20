@@ -4,16 +4,17 @@ First itteration of my portfolio using only html and css and making a resposive 
 
 MAIN html file is names
 
-    index.html
+        index.html
 
 and its css file
 
-    index.css
+        index.css
 
 simillarly individual html files are created for each navigation tag.
 
 To clone the repository to your local repo
-    git clone https://github.com/BALAJI24092001/Portfolio
+
+        git clone https://github.com/BALAJI24092001/Portfolio
 
 
 ## 🎨 Color Reference
