@@ -241,7 +241,7 @@
         margin-top: 15px;
     }
 }
-@media screen and (max-width:330px) {
+@media screen and (max-width:380px) {
     .mainhead{
         display: flex;
         width: 100%;
@@ -300,6 +300,10 @@
     }
     .header1 .navigation nav{
         padding: 7px;
-        font-size: 10px;
+        font-size: 12.5px;
+    }
+    .skills img{
+        margin: 20px;
+        padding: 0px;
     }
 }
