@@ -12,6 +12,9 @@ and its css file
 
 simillarly individual html files are created for each navigation tag.
 
+To clone the repository to your local repo
+    git clone https://github.com/BALAJI24092001/Portfolio
+
 
 ## 🎨 Color Reference
 
