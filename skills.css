@@ -45,6 +45,13 @@
     font-size: 17px;
     font-style: italic;
 }
+.right .mail a :hover{
+    color: #3a6097;
+    text-decoration: none;
+}
+.right .mail p :hover{
+    text-decoration:solid;
+}
 .middle{
     width: 86%;
     height: 100%;
