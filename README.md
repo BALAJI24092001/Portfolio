@@ -1,5 +1,5 @@
 ## Portfolio
-
+![Discord](https://img.shields.io/discord/845214293528150046?label=Discord&style=plastic)               ![GitHub repo size](https://img.shields.io/github/repo-size/BALAJI24092001/Portfolio)           ![GitHub repo size](https://img.shields.io/github/repo-size/BALAJI24092001/Portfolio)                      
 First itteration of my portfolio using only html and css and making a resposive site.
 Second itteration is intended to be made only using grids.
 
