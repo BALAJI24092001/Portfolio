@@ -23,6 +23,10 @@ and its css file
 
 simillarly individual html files are created for each navigation tag.
 
+## Github Page
+
+<a herf="https://balaji24092001.github.io/Portfolio/">https://balaji24092001.github.io/Portfolio/</a>
+
 ## To clone the repository
 
         git clone https://github.com/BALAJI24092001/Portfolio
