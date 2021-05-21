@@ -1,7 +1,9 @@
 ## Portfolio
 
 
-![Discord](https://img.shields.io/discord/845214293528150046?label=Discord&style=plastic)               ![GitHub repo size](https://img.shields.io/github/repo-size/BALAJI24092001/Portfolio)           ![Lines of code](https://img.shields.io/tokei/lines/github/BALAJI24092001/Portfolio)           ![GitHub issues](https://img.shields.io/github/issues/BALAJI24092001/Portfolio)         ![GitHub closed issues](https://img.shields.io/github/issues-closed/BALAJI24092001/Portfolio)           ![GitHub pull requests](https://img.shields.io/github/issues-pr/BALAJI24092001/Portfolio)               ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/BALAJI24092001/Portfolio)
+![Discord](https://img.shields.io/discord/845214293528150046?label=Discord&style=plastic)               ![GitHub repo size](https://img.shields.io/github/repo-size/BALAJI24092001/Portfolio)           ![Lines of code](https://img.shields.io/tokei/lines/github/BALAJI24092001/Portfolio)           ![GitHub issues](https://img.shields.io/github/issues/BALAJI24092001/Portfolio)         ![GitHub closed issues](https://img.shields.io/github/issues-closed/BALAJI24092001/Portfolio)           
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/BALAJI24092001/Portfolio)               ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/BALAJI24092001/Portfolio)
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/BALAJIVARAPRAS9?style=social)           ![GitHub followers](https://img.shields.io/github/followers/BALAJI24092001?style=social)
