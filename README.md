@@ -3,7 +3,7 @@
 First itteration of my portfolio using only html and css and making a resposive site.
 Second itteration is intended to be made only using grids.
 
-MAIN html file is names
+MAIN html file is
 
         index.html
 
