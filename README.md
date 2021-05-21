@@ -1,6 +1,7 @@
-# Portfolio
+## Portfolio
 
 First itteration of my portfolio using only html and css and making a resposive site.
+Second itteration is intended to be made only using grids.
 
 MAIN html file is names
 
@@ -12,10 +13,13 @@ and its css file
 
 simillarly individual html files are created for each navigation tag.
 
-To clone the repository to your local repo
+## To clone the repository
 
         git clone https://github.com/BALAJI24092001/Portfolio
 
+For any contributions, advices or suggestions contact me
+
+        dbalajivaraprasad@gmail.com
 
 ## 🎨 Color Reference
 
