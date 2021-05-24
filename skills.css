@@ -107,6 +107,7 @@
 .skills{
     width: 70%;
     padding: 0px;
+    margin-top: 150px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -115,7 +116,8 @@
     align-content: center;
 }
 .skills img{
-    padding: 40px;
+    width: 10%;
+    padding: 50px;
 }
 @media screen and (max-width: 850px) {
     .header1{
@@ -129,6 +131,13 @@
         justify-content: center;
         padding-right: 0px;
         padding-left: 150px;
+    }
+    .skills{
+        margin-top: 15px;
+    }
+    .skills img{
+        width: 20%;
+        padding: 20px;
     }
 }
 @media screen and (max-width:615px) {
@@ -179,6 +188,14 @@
     .middle .title{
         width: 100%;
         padding-left: 0;
+    }
+    .skills{
+        margin-top: 15px;
+        margin-bottom: 2px;
+    }
+    .skills img{
+        width: 25%;
+        padding: 30px;
     }
     
 }
@@ -244,8 +261,9 @@
         padding-left: 0;
     }
     .skills img{
+        width: 30%;
         padding: 20px;
-        margin-top: 15px;
+        margin-top: 5px;
     }
 }
 @media screen and (max-width:380px) {
@@ -310,7 +328,8 @@
         font-size: 12.5px;
     }
     .skills img{
-        margin: 20px;
-        padding: 0px;
+        width: 30%;
+        margin: 5px;
+        padding: 10px;
     }
 }
