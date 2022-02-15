@@ -31,7 +31,7 @@ simillarly individual html files are created for each navigation tag.
 
         git clone https://github.com/BALAJI24092001/Portfolio
 
-For any contributions, advices or suggestions contact me
+For any contributions, or suggestions contact me
 
         dbalajivaraprasad@gmail.com
 
